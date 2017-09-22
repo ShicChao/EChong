@@ -1,0 +1,17 @@
+.classify {
+  width: 100%; }
+  .classify header {
+    width: 100%;
+    height: 0.96rem;
+    background: #fff;
+    border-bottom: 1px solid #cbcbcb; }
+    .classify header .h_change {
+      display: flex; }
+      .classify header .h_change li {
+        width: 50%;
+        text-align: center;
+        line-height: 0.96rem; }
+      .classify header .h_change .c_itemize a {
+        display: inline-block;
+        color: #ed4044;
+        border-bottom: 2px solid #ed4044; }

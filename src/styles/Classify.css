@@ -1,0 +1,43 @@
+.classify header a {
+  font-size: 14px; }
+
+.classify .content .left {
+  float: left;
+  height: 100%;
+  margin-right: 3px;
+  overflow: auto; }
+  .classify .content .left ul {
+    border-right: 1px solid #fff; }
+    .classify .content .left ul li {
+      width: 1.67rem;
+      background: #fff;
+      border-bottom: 1px solid #fff;
+      margin-bottom: 1px;
+      padding: 12px 0;
+      box-sizing: border-box;
+      font-size: 12px;
+      text-align: center; }
+    .classify .content .left ul .lf_active {
+      background: transparent;
+      color: #ed4044; }
+
+.classify .content .right {
+  box-sizing: border-box;
+  background: #fff;
+  padding: 15px 5px 20px;
+  border-top: 1px solid #f3f4f5; }
+  .classify .content .right p {
+    font-size: 12px;
+    color: #999; }
+  .classify .content .right .goods_detail {
+    text-align: center; }
+    .classify .content .right .goods_detail li {
+      float: left;
+      text-align: center;
+      font-size: 12px;
+      color: #999;
+      margin-left: 10px;
+      margin-bottom: 10px; }
+      .classify .content .right .goods_detail li img {
+        width: 2.4rem;
+        height: 2.4rem; }

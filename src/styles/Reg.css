@@ -1,0 +1,92 @@
+#Reg{
+	width:100%;
+	height:16.6rem;
+	background: #fff;
+}
+#logo{
+	width:100%;
+	height:5rem;
+	background: url(//img1.epetbar.com/2017-06/01/8/5e8d251ff2721f4a01920f0a61696026.png) no-repeat;  
+	background-size: 100% 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	color:#fff;
+}
+#logo #back{
+	position: absolute;
+	top:0rem;
+	left:0.2rem;
+	font-size:0.9rem;
+}
+#logo #reg{
+	position: absolute;
+	top:0.3rem;
+	right:0.3rem;
+	font-size:0.5rem;
+}
+#logo #echong{
+	font-size:1.2rem;
+	font-family:"宋体";
+	font-weight: bolder;
+}
+#logo #epet{
+	font-size:0.4rem;
+}
+
+#bodyer{
+	width:100%;
+	Height:6rem;
+}
+#bodyer #oul1{
+	width:100%;
+	height:6.2rem;
+	margin-top:0.5rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#bodyer #oul1 li{
+	flex:1;
+	width: 90%;
+	height:100%;
+	display: flex;	
+	color:#ccc;
+	align-items: center;
+}
+#bodyer #oul1 #li1,#bodyer #oul1 #li2,#bodyer #oul1 #li5{
+	border-bottom: 1px solid #999;
+}
+#bodyer #oul1 #li1 input,#bodyer #oul1 #li2 input,#bodyer #oul1 #li5 input{
+	height:1renm;
+}
+#bodyer #oul1 li i{
+	display: block;
+	width:1.2rem;
+	height:1.2rem;
+	font-size:0.6rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#bodyer #oul1 li input{
+	flex:1;
+	height:1.2rem;
+	border: none;
+	color:#999
+}
+#bodyer #oul1 #li3{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+#bodyer #oul1 #li4 button{
+	width:100%;
+	height:0.9rem;
+	border-radius: 0.5rem;
+	background: #56d2b6;
+	color:#fff;
+}
+

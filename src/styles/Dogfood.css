@@ -1,0 +1,15 @@
+.dogfood {
+  width: 10rem; }
+  .dogfood .pagemenus ul {
+    width: 10rem;
+    height: 2.4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    aligh-items: center;
+    margin: 0; }
+    .dogfood .pagemenus ul li {
+      width: 2.5rem; }
+      .dogfood .pagemenus ul li img {
+        width: 2.5rem;
+        height: 2.4rem; }
